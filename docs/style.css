@@ -1,3 +1,14 @@
+li:jkg{
+
+    
+    background-color: rgb(152, 202, 16);
+}
+li:jkg1{
+
+
+    background-color: rgb(152, 202, 16);
+    
+}
 
 li{
     color: rgb(11, 241, 203);
@@ -8,7 +19,7 @@ li{
     font-weight: bold;
 }
 li:hover{
-    background-color: rgb(224, 63, 35);
+    background-color: white;
     border: 1px dotted rgb(248, 3, 3);
     color: white;
 }
@@ -30,6 +41,7 @@ h1{
     
 }
 .ul1{
+    
      margin: 0 auto;
     width: 700px;
     display: flex;
