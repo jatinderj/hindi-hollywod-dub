@@ -13,9 +13,9 @@ li:jkg1{
 li{
     color: rgb(240, 240, 240);
     list-style: none;
-    background-color: rgb(204, 137, 243);
+    background-color: rgb(230, 37, 255);
     padding: 10px 25px;
-    border: 1px dotted rgb(89, 3, 110);
+    border: 1px dotted rgb(255, 253, 255);
     font-weight: bold;
 }
 li:hover{
@@ -31,8 +31,8 @@ body{
 }
 h1{
     text-align: center;
-    background-color: rgb(255, 164, 128);
-    text-shadow: 1px 5px 5px rgb(231, 2, 2);
+    background-color: rgb(226, 2, 255);
+    text-shadow: 1px 5px 5px rgb(255, 255, 255);
 }
 
 .head1{
